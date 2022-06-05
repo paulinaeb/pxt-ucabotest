@@ -1,4 +1,4 @@
-# Repositorio de pruebas para crear Ucabot: extension para microbit usando cutebot
+# Pruebas para crear Ucabot: extension para microbit usando cutebot
 
 ## ~ hint
 
@@ -20,4 +20,5 @@ MIT
 
 ```package
 ucabotest=github:paulinaeb/pxt-ucabotest
+```
 ```
