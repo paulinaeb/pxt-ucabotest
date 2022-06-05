@@ -1,0 +1,18 @@
+{
+    "name": "ucabotest",
+    "version": "0.0.3",
+    "description": "ucabotest made for cutebot",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ucabotest.ts",
+        "ucabotest.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
