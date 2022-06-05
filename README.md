@@ -1,4 +1,4 @@
-# Pruebas para crear Ucabot: extension para microbit usando cutebot
+# Testing repo for Ucabot: MakeCode microbit extension using Cutebot
 
 ## ~ hint
 
