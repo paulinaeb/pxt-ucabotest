@@ -5,9 +5,9 @@
 To use this package, go to https://makecode.microbit.org, click ``Add package`` insert the link https://github.com/paulinaeb/pxt-ucabotest for **ucabot**
 
 ## Basic usage
-
-//Currently working on blocks!
-
+```
+Currently working on blocks!
+```
 
 ## Supported targets
 
