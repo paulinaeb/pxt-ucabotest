@@ -6,8 +6,7 @@ To use this package, go to https://makecode.microbit.org, click ``Add package`` 
 
 ## Basic usage
 
-```blocks
-//Currently working on them!
+//Currently working on blocks!
 
 
 ## Supported targets
@@ -20,5 +19,4 @@ MIT
 
 ```package
 ucabotest=github:paulinaeb/pxt-ucabotest
-```
 ```
