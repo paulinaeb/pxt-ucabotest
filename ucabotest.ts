@@ -1,5 +1,4 @@
 /**
-* https://github.com/sparkfun/pxt-light-bit
 * Development environment specifics:
 * Written in Microsoft Makecode 
 * This code is released under the [MIT License](http://opensource.org/licenses/MIT).
@@ -7,9 +6,8 @@
 * Distributed as-is; no warranty is given.
 */
 
-
 /**
- * Functions to operate the ucabotest sensor
+ * Functions to operate the ucabotest
  */
 
  enum ucabotestType{
