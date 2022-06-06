@@ -1,15 +1,9 @@
 /**
-* Andy England @ SparkFun Electronics
-* September 6, 2018
 * https://github.com/sparkfun/pxt-light-bit
-
 * Development environment specifics:
-* Written in Microsoft Makecode
-* Tested with a SparkFun ucabotest sensor and micro:bit
-*
+* Written in Microsoft Makecode 
 * This code is released under the [MIT License](http://opensource.org/licenses/MIT).
-* Please review the LICENSE.md file included with this example. If you have any questions
-* or concerns with licensing, please contact techsupport@sparkfun.com.
+* Please review the LICENSE.md file included with this example. 
 * Distributed as-is; no warranty is given.
 */
 
